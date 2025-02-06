@@ -39,4 +39,4 @@ View and manage your profile, including your name, profile image, and list of bo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/diala2/Bakery.git
+   git clone https://github.com/diala2/Bakery-App.git
